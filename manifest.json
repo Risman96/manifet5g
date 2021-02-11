@@ -1,0 +1,38 @@
+{
+  "name": "5g-indonesia.com",
+  "short_name": "5G-indonesia.com",
+  "start_url": "https://5g-indonesia.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "5g-indonesia.com - Situs Informasi Terbaru dan Terupdate Tentang Jaringan 5G, Kumpulan Tips dan Trik Teknologi, Info Pendidikan, Informasi Unik.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s48/5GIndonesiafavicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s72/5GIndonesiafavicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s96/5GIndonesiafavicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s144/5GIndonesiafavicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s168/5GIndonesiafavicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s192/5GIndonesiafavicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K48TZZSALM/YCWyqJ9ZoqI/AAAAAAAACvI/ectqSIQRZ98OnWw4OqrvcCH0g8CKGthAwCLcBGAsYHQ/s512/5GIndonesiafavicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
